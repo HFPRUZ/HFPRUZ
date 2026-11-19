@@ -1,41 +1,40 @@
-<div align="center">
+# Hi there! 👋 I'm Fabricio Plasencia
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=130&section=header&text=Fabricio%20Plasencia&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Network%20Engineer%20-%20Operations%20and%20Support&descAlignY=62&descSize=16" alt="Fabricio Plasencia - Network Engineer, Operations and Support" width="100%" />
+### Network Engineer | Operations and Support
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fabricioplasencia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabricioplasencia)
-[![GitHub](https://img.shields.io/badge/GitHub-HFPRUZ-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HFPRUZ)
-![Open to work](https://img.shields.io/badge/Open%20to-Network%20Engineer%20roles-2ea44f?style=flat-square)
+Welcome to my GitHub profile! I'm an IT Systems and Network Administrator focused on keeping networks and infrastructure reliable, and on automating repetitive operations with scripts.
 
-</div>
+### About Me
 
-## 👋 About me
+- 🌐 Networking, VPNs, firewalls, Linux and Windows systems
+- 🛠️ Troubleshooting, monitoring, backups and technical documentation
+- 🌱 Currently learning Angular, NestJS, Prisma and AI integrations
+- 💼 Open to Network Engineer / Operations and Support roles
+- 📫 Reach out to me: [LinkedIn](https://linkedin.com/in/fabricioplasencia)
 
-IT Systems and Network Administrator focused on **reliable networks and infrastructure**: troubleshooting, automating repetitive operations with scripts, and documenting everything so the next person on shift can repeat it.
-Currently learning **Angular, NestJS, Prisma and AI integrations**.
+### Scripting
 
-## 🧰 Skills
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-| | |
-|---|---|
-| 🌐 **Networking** | LAN/WAN, VLANs, routing and switching, Wi-Fi, DNS, DHCP, VPN |
-| 🔒 **Security** | Fortinet firewalls, access control, Microsoft Entra ID, Tailscale |
-| 🖥️ **Systems** | Debian / Linux, Windows, Microsoft 365, virtualization, PostgreSQL |
-| 📊 **Operations** | Prometheus, Grafana, ticketing, backups, inventory, documentation |
+### Frameworks and Tools
 
-## 💻 Languages and tools
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=bash,py,php,js,ts,powershell,angular,nestjs,prisma,fastapi,nodejs,docker,postgres,redis,linux,debian,windows,raspberrypi,grafana,prometheus,git&perline=11" alt="Bash, Python, PHP, JavaScript, TypeScript, PowerShell, Angular, NestJS, Prisma, FastAPI, Node.js, Docker, PostgreSQL, Redis, Linux, Debian, Windows, Raspberry Pi, Grafana, Prometheus, Git" />
+### Infrastructure
 
-**Scripting:** Bash · Python · PHP · JavaScript · TypeScript · PowerShell
-
-## 🚀 Projects
-
-- **DebNetAdmin**: Bash toolkit to administer Debian servers and their network services, with an HTML server report (Raspberry Pi and any Debian server).
-- **MagikPanel**: multi-tenant SaaS for ice factories and distributors (FastAPI, PostgreSQL, Docker).
-- **Home lab**: Raspberry Pi with Prometheus + Grafana Cloud monitoring and Tailscale remote access.
-
-## 🎓 Certifications
-
-![Fortinet NSE 2](https://img.shields.io/badge/Fortinet-NSE%202-EE3124?style=flat-square)
-![Fortinet NSE 1](https://img.shields.io/badge/Fortinet-NSE%201-EE3124?style=flat-square)
-![Microsoft Entra](https://img.shields.io/badge/Microsoft-Entra%20Applied%20Skills-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
+![Fortinet](https://img.shields.io/badge/fortinet-%23EE3124.svg?style=for-the-badge&logo=fortinet&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
